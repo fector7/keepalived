@@ -11,6 +11,8 @@
 
 ![router1](https://github.com/fector7/keepalived/blob/main/img/r1.PNG)
 ![router2](https://github.com/fector7/keepalived/blob/main/img/r2.PNG)
+
+Cisco Packet Tracer
 [схема](https://github.com/fector7/keepalived/blob/main/conf/hsrp_advanced(fedor).pkt)
 
 ### Задание 2
@@ -23,8 +25,8 @@
 ------
 
 ![master](https://github.com/fector7/keepalived/blob/main/img/keep1.PNG)
-![backup](https://github.com/fector7/keepalived/blob/main/img/keep2.PNG)
-![log](https://github.com/fector7/keepalived/blob/main/img/keep3.PNG)
+![backup](https://github.com/fector7/keepalived/blob/main/img/Keeep2.PNG)
+![log](https://github.com/fector7/keepalived/blob/main/img/Keep3.PNG)
 
 ```bash
 #!/bin/bash
